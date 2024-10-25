@@ -10,7 +10,7 @@ Git adalah sistem kontrol versi yang memungkinkan Anda untuk melacak perubahan d
 - Unduh aplikasi untuk sistem operasi Anda (Windows atau macOS).
 - Instal aplikasi dengan mengikuti petunjuk di layar.
 
-![Screenshot Instalasi GitHub Desktop](link_ke_screenshot_instalasi)
+  ![ScreenShot](Gambar/1.png)
 
 ### 2. Mengatur Akun GitHub
 - Buka GitHub Desktop setelah diinstal.
