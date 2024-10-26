@@ -46,7 +46,7 @@ Git adalah sistem kontrol versi yang memungkinkan Anda untuk melacak perubahan d
 ![ScreenShot](Gambar/9.png)
 ![ScreenShot](Gambar/10.png)
 
-### 7. Menarik dan Mengirim Perubahan
+### 7. Mengirim Perubahan
 - Untuk menarik perubahan terbaru dari remote, klik tombol **Fetch origin**.
 - Untuk mengirim perubahan lokal ke remote, klik tombol **Push origin**.
 
